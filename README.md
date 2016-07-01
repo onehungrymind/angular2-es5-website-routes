@@ -1,5 +1,5 @@
-# Building an Angular 2 Website Using Routes
-This is a simple Angular 2 website using the RC router. It demonstrates how to build components, configure routes, inject services, and add inputs
+# Angular 2 and ES5 Website Using Routes
+This is a simple Angular 2 website built on ES5 using the RC router. It demonstrates how to build components, configure routes, inject services, and add inputs to components without the need for any build systems.
 
 ## Dependencies
 - You must have `node` and `npm` installed (via `brew install node` or [NodeJS.org](https://nodejs.org/en/));
